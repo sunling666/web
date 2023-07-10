@@ -77,8 +77,9 @@ form p span {
 }
 
 form p img {
-    height: 12px;
-
+    margin-left: 2px;
+    height: 7px;
+    width: 12px;
 }
 
 .tel {
@@ -198,8 +199,8 @@ form a{
 
 .right-img {
     float: right;
-    width: 1083px;
-    height: 1080px;
+    width: 970px;
+    height: 940px;
     opacity: 1;
     background-image: url(../assets/right-img.png);
     background-size: contain;
